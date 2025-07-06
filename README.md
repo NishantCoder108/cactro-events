@@ -1,3 +1,20 @@
+
+
+### React Test 
+
+1. Question 1 : See `Question.js` file
+
+2. Question 2: See `App.tsx` file
+
+
+
+
+
+
+
+
+-----
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
